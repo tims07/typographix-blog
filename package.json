@@ -1,0 +1,14 @@
+{
+  "name": "typographix-v6",
+  "version": "1.0.0",
+  "description": "Typographix Blog using SCSS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timothy Sanders",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.4"
+  }
+}
